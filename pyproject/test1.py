@@ -46,5 +46,5 @@ def read_douhao(dir):#有逗号的文本处理，重新组成数组
         content = item.strip()
         temp = content.split(",")
         arr.append(temp)
-        print('aaaaa')
+        print('aaaaa111111111111')
     return arr
